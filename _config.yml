@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Thoughts of an Astronomer
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: sebastien.maret@icloud.com
+description: "Sébastien Maret homepage."
+baseurl: ""
+url: "http://smaret.github.io"
+twitter_username: sebastienmaret
+github_username:  smaret
+facebook_username:  sebastienmaret
 
 # Build settings
 markdown: kramdown
