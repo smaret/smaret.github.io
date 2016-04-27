@@ -1,15 +1,19 @@
 # Site settings
 title: Sébastien Maret
 header-img: img/home-bg.jpg
-email: sebastien.maret@icloud.com
+email: sebastien.maret@univ-grenoble-alpes.fr
+copyright_name: Sébastien Maret
 baseurl: ""
 url: "http://smaret.github.io"
 twitter_username: sebastienmaret
-github_username:  smaret
+github_username: smaret
+email_username: sebastien.maret@univ-grenoble-alpes.fr
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
