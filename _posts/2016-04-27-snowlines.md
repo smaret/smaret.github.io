@@ -4,6 +4,7 @@ title:      "Snow lines around embedded protostars"
 subtitle:   "A solution to the missing carbon problem in disks?"
 date:       2016-04-27 13:30:00
 author:     "Sébastien Maret"
+background: '/img/bg-index.jpg'
 ---
 
 Embedded [protostars](https://en.wikipedia.org/wiki/Protostar) are very young stars that are still accreting gas and dust from their parental [molecular cloud](https://en.wikipedia.org/wiki/Molecular_cloud). This is the earliest phase of the formation of sun-like star. Because embedded protostars are not burning deuterium in their interior yet, they are extremely cold, from a few tens to a few hundreds Kelvins, depending on the distance to the center of the protostar. As a result, volatile elements that compose the protostellar envelope -- such as carbon monoxide, water, or complex organic molecules -- condense onto [dust particles](https://en.wikipedia.org/wiki/Cosmic_dust). The specific distance from the protostar is called the *snow line*. Because not all chemical species condense at the same temperature, the snowline also varies from one species to the other. For example, the carbon monoxide snowline is located much farther away that the water snowline, because carbon monoxide is more volatile than water.
