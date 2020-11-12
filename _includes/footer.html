@@ -57,6 +57,16 @@
             </a>
           </li>
           {% endif %}
+	  {% if site.orcid_id %}
+          <li class="list-inline-item">
+            <a href="https://orcid.org/{{ site.orcid_id }}">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
         <p class="copyright text-muted">Copyright &copy; {{ site.author }} 2016-{{ 'now' | date: "%Y" }}</p>
       </div>
