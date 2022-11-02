@@ -1,6 +1,8 @@
 Sébastien Maret's homepage
 ==========================
 
+[![Build and deploy](https://github.com/smaret/smaret.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/smaret/smaret.github.io/actions/workflows/jekyll.yml)
+
 This repository contains the source code for [Sébastien Maret's
 homepage](http://www.sebastienmaret.net).
 
