@@ -17,7 +17,6 @@ orcid_id:           0000-0003-1104-4554
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-# FIXME: Add a favicon
 theme:              jekyll-theme-clean-blog
 markdown:           kramdown
 paginate:           5
