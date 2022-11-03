@@ -19,5 +19,5 @@ understood by anyone with a basic scientific background.
 Please feel free to contact me
 [by email](mailto:sebastien.maret@univ-grenoble-alpes.fr)
 if you have questions. You can also use
-[Twitter](http://twitter.com/sebastienmaret) to reach me or to comment
+[Mastodon](https://scholar.social/@sebastienmaret) to reach me or to comment
 on this blog. Happy reading!
