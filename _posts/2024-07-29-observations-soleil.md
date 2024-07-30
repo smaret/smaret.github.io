@@ -104,7 +104,7 @@ soleil depuis 2011, et il nous fournit des images à plusieurs
 longueurs d'onde et en continu (ce satellite n'étant nullement soumis
 aux caprices de la météo). J'ai produit le film en mettant bout à bout
 des images de la [caméra HMI](http://hmi.stanford.edu) obtenues toutes
-les heures entre 1<sup>er</sup> mai et le 1<sup>er<sup>
+les heures entre 1<sup>er</sup> mai et le 1<sup>er</sup>
 juin 2024. Cette instrument observe l'émission continuum de la
 photosphère à une longueur d'onde de 617 nanomètres, proche de la
 longueur d'onde observée avec notre lunette.
@@ -168,7 +168,7 @@ postulé](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/
 ils ont pris Thomas Pesquet. J'ai donc ré-expliqué la différence entre
 astronome et astronaute, et je leur ai demandé s'il connaissaient un
 astronaute (convaincu qu'il citeraient le nom de celui qui m'a piqué
-le siège le capsule [Crew
+le siège dans la capsule [Crew
 Dragon](https://www.lemonde.fr/sciences/article/2021/04/17/thomas-pesquet-pare-pour-un-nouveau-decollage-vers-l-espace-on-sait-quand-ca-va-faire-mal-quand-ce-sera-long-quand-ce-sera-difficile_6077146_1650684.html)). Une
 première élève m'a fait une vague description de [Buzz
 l'Eclair](https://fr.wikipedia.org/wiki/Buzz_l%27Éclair). Et puis un
